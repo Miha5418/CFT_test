@@ -41,6 +41,8 @@ public class Main {
 
         Work.writeInFile(outFile, ListResult);
 
+        System.out.println("Слияние файлов прошло успешно.");
+
 
     }
 }
